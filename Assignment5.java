@@ -30,17 +30,6 @@ closures or rerouting requirements).
  
 */
 
-
-
-
-
-
-
-
-
-
-
-
 import java.util.*;
 class Edge {
     int to;
